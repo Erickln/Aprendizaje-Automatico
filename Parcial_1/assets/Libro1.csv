@@ -1,0 +1,11 @@
+﻿COLOR,ASPECTO,TAMAÑO,LONGITUD,CLASE
+amarillo,moteado,grande,largo,venenoso
+amarillo,liso,mediano,largo,venenoso
+amarillo,moteado,grande,normal,comestible
+amarillo,liso,grande,normal,venenoso
+amarillo,moteado,mediano,normal,venenoso
+blanco,liso,mediano,largo,comestible
+blanco,moteado,grande,largo,comestible
+blanco,liso,mediano,normal,venenoso
+blanco,moteado,mediano,normal,venenoso
+blanco,moteado,grande,normal,comestible
