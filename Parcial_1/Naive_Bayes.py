@@ -7,7 +7,7 @@ from requests import head
 # Not mutable variable
 # Documentation: \assets\heart-disease.names
 # DATA_PATH = 'Parcial_1\\assets\\diabetes.csv'
-DATA_PATH = 'Parcial_1\\assets\\diabetesTest.csv'
+DATA_PATH = 'assets\\diabetesTest.csv'
 
 # data to classify
 data = pd.read_csv(DATA_PATH, header=0)
